@@ -27,6 +27,17 @@
 .App-link {
   color: #61dafb;
 }
+th
+{
+  padding:0px 30px 0px 30px;
+}
+.logged-in {
+  color: green;
+}
+
+.logged-out {
+  color: red;
+}
 
 @keyframes App-logo-spin {
   from {
